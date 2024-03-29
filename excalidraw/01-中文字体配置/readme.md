@@ -7,4 +7,5 @@
 ## 配置步骤：
 
 1. [Twitter配置步骤](https://twitter.com/dotey/status/1595638064801521665)
-2. [知乎专栏配置步骤](https://zhuanlan.zhihu.com/p/684940131)
+2. https://www.chilisdy.site/post/software/ob-excalidraw-zh-font/
+3. [知乎专栏配置步骤](https://zhuanlan.zhihu.com/p/684940131)
